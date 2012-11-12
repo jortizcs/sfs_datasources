@@ -1,0 +1,33 @@
+{
+    "type": "change",
+    "triggering_datastream": {
+        "value": {
+            "value": "0.093",
+            "max_value": 0.2,
+            "min_value": 0
+        },
+        "units": {
+            "symbol": "uSv/hr",
+            "type": "derivedUnits",
+            "label": "uSv/hr"
+        },
+        "url": "http://api.pachube.com/v2/feeds/26897/datastreams/1",
+        "id": "1"
+    },
+    "environment": {
+        "location": {
+            "lat": "34.9743487650454",
+            "name": "34.974375,138.386879",
+            "lon": "138.386878967285"
+        },
+        "title": "Safecast/Keio/STE4+Shizuoka",
+        "private": false,
+        "description": "",
+        "feed": "http://api.pachube.com/v2/feeds/26897",
+        "id": 26897
+    },
+    "threshold_value": null,
+    "url": "http://api.pachube.com/v2/triggers/6555",
+    "timestamp": "2012-04-09T01:08:38Z",
+    "id": 6555
+}

@@ -1,0 +1,118 @@
+[
+{	
+	"smap_info":{
+		"uuid": "287171b1-81c5-535b-a92a-a254fec5ba2b",
+		"repub_stream":"ar1.openbms.org:8079/republish"
+	},
+	"sfs_info":{
+		"server":"energylens.sfsprod.is4server.com:8080",
+		"path":"/buildings/SDH/spaces/floor4/room458/zone_temp",
+		"pubid": "7db100a7-ca4f-4b40-a73f-f4dda243c63e"
+	}
+},
+
+{
+	"smap_info":{
+		"uuid": "74d78e9d-8430-5511-a195-626ddd656923",
+		"repub_stream":"ar1.openbms.org:8079/republish"
+		},
+	"sfs_info":{
+		"server":"energylens.sfsprod.is4server.com:8080",
+		"path":"/buildings/SDH/spaces/floor4/room458/damper_position",
+		"pubid":"782de88c-31ae-47df-a58f-011ea2b3ba70"
+	}
+},
+
+{
+	"smap_info":{
+		"uuid": "faea298a-4525-500a-bde5-527afc29a8dd",
+		"repub_stream":"ar1.openbms.org:8079/republish"
+		},
+	"sfs_info":{
+		"server":"energylens.sfsprod.is4server.com:8080",
+		"path":"/buildings/SDH/spaces/floor4/room458/airflow/",
+        "pubid": "2b54bba9-7baf-4f5c-86b3-a5aca14f5840"
+	}
+},
+
+{
+	"smap_info":{
+		"uuid": "35fd303b-3315-5e1b-968c-4ab6ae2d6435",
+		"repub_stream":"ar1.openbms.org:8079/republish"
+		},
+	"sfs_info":{
+		"server":"energylens.sfsprod.is4server.com:8080",
+		"path":"/buildings/SDH/spaces/floor4/room458/heating/",
+        "pubid": "1de033d6-1abe-4a33-9bf0-73bd50872f8e"
+	}
+},
+
+{
+	"smap_info":{
+		"uuid": "eb7d5c36-060a-5ab5-9e78-2bf8fd2c0948",
+		"repub_stream":"ar1.openbms.org:8079/republish"
+		},
+	"sfs_info":{
+		"server":"energylens.sfsprod.is4server.com:8080",
+		"path":"/buildings/SDH/spaces/floor4/room458/max_airflow/",
+        "pubid": "593ac9bb-3b57-48f9-9419-610973653fdc"
+	}
+},
+
+{
+	"smap_info":{
+		"uuid": "ba82ca51-201f-502e-b155-b4a6fee6e5b2",
+		"repub_stream":"ar1.openbms.org:8079/republish"
+		},
+	"sfs_info":{
+		"server":"energylens.sfsprod.is4server.com:8080",
+		"path":"/buildings/SDH/spaces/floor4/room458/min_airflow/",
+        "pubid": "27942541-d91c-4742-95a2-101e7007283b"
+	}
+},
+{
+	"smap_info":{
+		"uuid":"113d0082-9892-557e-9754-66f91a570a1e",
+		"repub_stream":"ar1.openbms.org:8079/republish"
+	},
+	"sfs_info":{
+		"server":"energylens.sfsprod.is4server.com:8080",
+		"path":"/buildings/SDH/spaces/floor4/room458/setpoint/",
+		"pubid": "360da355-c16c-4035-a05c-2a4e8e41024c"
+	}
+},
+{
+	"smap_info":{
+		"uuid":"089017e0-8bde-5e4f-a6ed-a8337ec4ee32",
+		"repub_stream":"ar1.openbms.org:8079/republish"
+	},
+	"sfs_info":{
+		"server":"energylens.sfsprod.is4server.com:8080",
+		"path":"/buildings/SDH/spaces/floor4/room458/valve_position/",
+		"pubid": "c61a74a8-9a96-4270-8474-5cccb9a1b287"
+	}
+},
+{
+	"smap_info":{
+		"uuid":"287171b1-81c5-535b-a92a-a254fec5ba2b",
+		"repub_stream":"ar1.openbms.org:8079/republish"
+	},
+	"sfs_info":{
+		"server":"energylens.sfsprod.is4server.com:8080",
+		"path":"/buildings/SDH/spaces/floor4/room458/zone_temp/",
+		"pubid": "7db100a7-ca4f-4b40-a73f-f4dda243c63e"
+	}
+},
+
+{
+	"smap_info":{
+		"uuid":"ec2b82c2-aa68-50ad-8710-12ee8ca63ca7",
+		"repub_stream":"ar2.openbms.org:8079/republish"
+	},
+	"sfs_info":{
+		"server":"energylens.sfsprod.is4server.com:8080",
+		"path":"/weather/berkeley/temperature/",
+		"pubid": "74c0b31a-f734-4cb5-8876-e78b543e10e1"
+	}
+}
+]
